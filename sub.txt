@@ -7,3 +7,12 @@ warp://162.159.195.195:3476/?ifp=5-10
 warp://162.159.195.78:3476/?ifp=5-10
 warp://188.114.97.166:3476/?ifp=5-10
 warp://188.114.99.105:3476/?ifp=5-10
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.2.31:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#T.me%2FVpn_Mafia+%F0%9F%87%A8%F0%9F%87%A6
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.245.217:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#T.me%2FVpn_Mafia+%F0%9F%87%BA%F0%9F%87%B8
+vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel-chf.pages.dev&type=ws&sni=bpb-worker-panel-chf.pages.dev#T.me%2FVpn_Mafia+%F0%9F%87%A8%F0%9F%87%A
+🇺🇸vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.172:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#T.me%2FVpn_Mafia+%F0%9F%87%BA%F0%9F%87%B8
+vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#T.me%2FVpn_Mafia+%F0%9F%87%A8%F0%9F%87%A6
+vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?path=%2Ftelegram-proxy_mtmtelegram-proxy_mtm%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg24.pages.dev#T.me%2FVpn_Mafia+%F0%9F%87%A8%F0%9F%87%A6
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#T.me%2FVpn_Mafia+%F0%9F%87%A8%F0%9F%87%A6
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#T.me%2FVpn_Mafia+%F0%9F%87%A8%F0%9F%87%A6
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.124.80:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#T.me%2FVpn_Mafia+%F0%9F%87%A8%F0%9F%87%A6
