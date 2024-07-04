@@ -177,25 +177,4 @@ vless://R@mtn.VPNPROSEC.com:8080?path=%2Fed%3D2048&security=none&encryption=none
 vless://6b10e086-7d43-46fa-954a-ad303d7cc37f@cdnchen.sharesite.ir:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=grizzlyvpn%2F%3Fed%3D2056&sni=grpc2.sharesite.ir#%F0%9F%9A%80+%D8%B3%D8%B1%DA%86+%DA%A9%D9%86++++%40v2fre+%F0%9F%9A%80%F0%9F%97%BF
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb50@www.Speedtest.Net:2095?path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#%F0%9F%9A%80+%D8%B3%D8%B1%DA%86+%DA%A9%D9%86++++%40v2fre+%F0%9F%9A%80%F0%9F%97%BF
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#%F0%9F%9A%80+%D8%B3%D8%B1%DA%86+%DA%A9%D9%86++++%40v2fre+%F0%9F%9A%80%F0%9F%97%BF 
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.43:7307#T.me%2FVpn_Mafia+%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZek15TXpVMg==@95.164.35.90:8388#T.me%2FVpn_Mafia+%F0%9F%87%B5%F0%9F%87%B1
-ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU=@54.95.164.206:443#Channel+id%3A+T.me%2FVpn_Mafia+%F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU=@3.112.218.182:443#Channel+id%3A+T.me%2FVpn_Mafia+%F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU=@35.94.178.238:443#T.me%2FVpn_Mafia+%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU=@35.91.178.223:443#Channel+id%3A+T.me%2FVpn_Mafia+%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1nY206ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#Channel+id%3A+T.me%2FVpn_Mafia
-ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU=@34.216.1.153:443#Channel+id%3A+T.me%2FVpn_Mafia+%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1nY206ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#Channel+id%3A+T.me%2FVpn_Mafia
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.34.95.205:443#T.me%2FVpn_Mafia+%F0%9F%87%B0%F0%9F%87%B7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.178.238:443#T.me%2FVpn_Mafia+%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.91.178.223:443#T.me%2FVpn_Mafia+%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#T.me%2FVpn_Mafia+
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.216.1.153:443#Channel+id%3A+T.me%2FVpn_Mafia+%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.161.56:443#T.me%2FVpn_Mafia+%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#Channel+id%3A+T.me%2FVpn_Mafia+
-vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNDgiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IlQubWUvVnBuX01hZmlhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNDgiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IlQubWUvVnBuX01hZmlhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#T.me%2FVpn_Mafia+%F0%9F%87%A8%F0%9F%87%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#T.me%2FVpn_Mafia+%F0%9F%87%A6%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#T.me%2FVpn_Mafia+%F0%9F%87%AC%F0%9F%87%A7
 
